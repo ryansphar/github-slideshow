@@ -2,5 +2,5 @@
 Layout: slide
 title: "Welcome to our Slide"
 ---
-Hi there!
+I like your funny words magic man
 Use the left arrow to go back
